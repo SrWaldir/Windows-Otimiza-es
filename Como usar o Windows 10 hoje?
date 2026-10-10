@@ -1,26 +1,26 @@
-💻 Como Usar o Windows 10 em 2026/2027: Guia do Programa ESU e Otimização.
+Estamos em 2026, caminhando para 2027, mas ainda existem muitos usuários com computadores equipados com processadores como Intel Core i3 ou i5 que não atendem aos requisitos para migrar para o Windows 11 oficial ou para uma distribuição Linux.
 
-Estamos em **2026**, caminhando para **2027**, mas ainda existem muitos usuários com processadores como Intel Core i3 ou i5 que não atendem aos requisitos para migrar para sistemas mais exigentes ou para o Windows 11 oficial. Para esses cenários, a solução mais prática e estável continua sendo o **Windows 10**.
+Para esses cenários, a solução mais prática e estável continua sendo manter o Windows 10.
 
-> 💡 Você sabia?
-> Embora o suporte oficial básico do Windows 10 tenha encerrado em outubro de 2025, a Microsoft disponibilizou o programa de **Atualizações de Segurança Estendidas (ESU - Extended Security Updates)**, garantindo proteção contra vulnerabilidades até **outubro de 2027**.
+Nota: Embora o suporte oficial básico do Windows 10 tenha encerrado em outubro de 2025, o programa de Atualizações de Segurança Estendidas (ESU - Extended Security Updates) é o caminho oficial para manter o sistema protegido contra vulnerabilidades até outubro de 2027.
 
-Abaixo, confira o guia passo a passo para garantir sua inscrição no ESU e manter o sistema protegido.
+Abaixo está o guia passo a passo para garantir a inscrição no programa ESU.
 
-📋 Pré-requisitos Obrigatórios
-Antes de iniciar a inscrição, certifique-se de que seu sistema cumpre os requisitos abaixo:
+Pré-requisitos Obrigatórios
+Antes de tentar realizar a inscrição, verifique se o seu computador atende aos pontos abaixo:
 
-- **Versão do Sistema:** O sistema precisa estar na versão **22H2** (*Home*, *Pro* ou *Workstation*).
-- **Atualizações em Dia:** Ter todos os pacotes de atualização mais recentes aplicados via Windows Update.
-- **Conta Microsoft:** A inscrição exige a vinculação do dispositivo a uma Conta Microsoft válida.
+Versão do Windows: O sistema precisa estar na versão 22H2 (edições Home, Pro ou Workstation).
 
-⚙️ Passo a Passo para Inscrição no Programa ESU (Consumidor Final)
+Atualizações em Dia: Todos os pacotes de atualização mais recentes devem estar aplicados pelo Windows Update.
 
-1. **Acessar o Windows Update:**
-   - Abra o menu **Iniciar** > **Configurações** (ícone de engrenagem) > **Atualização e Segurança** > **Windows Update**.
+Conta Microsoft: A inscrição vincula o dispositivo a uma Conta Microsoft.
 
-2. **Localizar o Banner de Inscrição:**
-   - Caso o seu PC cumpra todos os pré-requisitos, um aviso destacando a elegibilidade para o programa de atualizações estendidas será exibido na tela, acompanhado do botão **`Inscrever-se agora`**.
+Passo a Passo para Inscrição no Programa ESU
+1. Acessar o Windows Update
+Abra o menu Iniciar > Configurações (ícone de engrenagem) > Atualização e Segurança > Windows Update.
 
-3. **Concluir a Vinculação:**
-   - Siga as instruções exibidas na tela para autenticar sua **Conta Microsoft** e confirmar a inclusão do dispositivo no plano de atualizações estendidas.
+2. Localizar o Banner de Inscrição
+Caso o PC cumpra todos os requisitos, surgirá um aviso destacando a elegibilidade para o programa de atualizações estendidas com o botão Inscrever-se agora.
+
+3. Concluir a Vinculação
+Siga as instruções exibidas na tela e faça login com a sua Conta Microsoft para confirmar a associação da licença ao dispositivo.
