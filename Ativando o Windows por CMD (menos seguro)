@@ -1,0 +1,4 @@
+Abra o seu PowerShell como administrador.
+Copie e cole o seguinte comando no PowerShell: irm https://massgrave.dev/get | iex
+Digite 1 e aperte <enter> para iniciar a ativação.
+(Opcional) Reinicie o computador.
